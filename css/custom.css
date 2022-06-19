@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+#carousel-example-generic {
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.form-signin {
+    text-align: left;
+}
